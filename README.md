@@ -26,7 +26,7 @@ Portal de conteúdo com foco em SEO/AdSense, construído em PHP 8 com arquitetur
 **[✅ Gabarito Pro](https://gabaritoupro.com.br)**
 SaaS PWA para correção de provas por leitura óptica (OMR), com planos por assinatura. Stack: PHP 8, PDO, JavaScript vanilla.
 
-**[🧭 Teste Vocacional Brasil](#)*(https://www.testevocacionalbrasil.com.br/)*
+**[🧭 Teste Vocacional Brasil](https://www.testevocacionalbrasil.com.br/)**
 Plataforma web de teste vocacional baseada na teoria RIASEC, desenvolvida como parte da minha pesquisa de mestrado. Inclui integração de e-mail via PHPMailer/SMTP e hardening de segurança (proteção contra SQL Injection, XSS e injeção de cabeçalho de e-mail).
 
 ---
