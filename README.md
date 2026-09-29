@@ -37,7 +37,6 @@ Plataforma web de teste vocacional baseada na teoria RIASEC, desenvolvida como p
 - **Visualização e Engenharia de Dados** — ETL, storytelling com dados, dashboards
 - **Desenvolvimento Web e Mobile**
 - **Sistemas Aplicados a Dados** — APIs REST, HTTP, JSON
-- **Git/GitHub** — inclusive treinamentos para outros professores
 
 ---
 
