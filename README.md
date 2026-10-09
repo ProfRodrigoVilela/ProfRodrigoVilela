@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Prof. Rodrigo Vilela 🤓
+# Olá, eu sou o Prof. Rodrigo Vilela
 
 ### Professor de Programação e Sistemas de Dados | Desenvolvedor Full Stack | Pesquisador em Educação
 
